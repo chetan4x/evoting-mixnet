@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SonarLintProjectSettings">
+    <option name="bindingEnabled" value="true" />
+    <option name="projectKey" value="sqp_4b1360877600c75960f7817a4bca3ea79a49f044" />
+    <option name="serverId" value="evoting" />
+  </component>
+</project>
